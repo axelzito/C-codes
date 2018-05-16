@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+  ios::sync_with_stdio(false);
+
+  res=0;
+  
+  
+  novopar=(atual,1)
+  
+  entuanto o topo da pilha <=
+    atual ve o topo e bloqueia ele;
+    if(topo==atual) novopar.second += topo.second;
+   
+    incrementa a resposta e remove do topo da filha
+   
+   if(!pilha.vazia) res+= 1
+  
+  return 0;
+}

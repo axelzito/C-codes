@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main(){
+  ios::sync_with_stdio(false);
+  
+  int testes;
+  cin>>testes;
+ 
+  for(int k=0; k<testes; k++){
+    
+  }
+  
+  return 0;
+}
